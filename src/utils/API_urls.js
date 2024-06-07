@@ -1,0 +1,7 @@
+export const host = "https://dummyjson.com/"
+export const token_url = "auth/login"
+export const me = "auth/me"
+export const posts = "posts"
+export const posts_add = "posts/add"
+export const users_add = "users/add"
+export const todos_add = "todos/add"
